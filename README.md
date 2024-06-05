@@ -1,6 +1,8 @@
 ## Hi there 👋
+# Meu nome é Briani 💜
+# utilizo esse espaço para minha organização e compartilhamento dos meus projeto desenvolvidos 
+ ![](https://media1.tenor.com/m/FhX-tful5GgAAAAC/stich.gif)
 
-<!--
 **Brianigomes09/Brianigomes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
